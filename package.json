@@ -17,5 +17,5 @@
   "author": {"email": "naomikapengule@gmail.com", "name": "Tadala N. Kapengule", "url": "https://github.com/tnaomi"},
   "description": "Backend specialisations by ALX",
   "readme": "./README.md",
-  "type": "module"
+  "type": "commonjs"
 }
