@@ -9,13 +9,18 @@
   "dependencies": {
     "babel-cli": "^6.26.0",
     "braces": "^3.0.3",
-    "eslint": "^9.5.0",
+    "eslint": "^9.6.0",
     "jest": "^29.7.0",
     "json5": "^2.2.3",
-    "node": "^20.15.0"
+    "node": "^20.15.0",
+    "semistandard": "^17.0.0"
   },
-  "author": {"email": "naomikapengule@gmail.com", "name": "Tadala N. Kapengule", "url": "https://github.com/tnaomi"},
+  "author": {
+    "email": "naomikapengule@gmail.com",
+    "name": "Tadala N. Kapengule",
+    "url": "https://github.com/tnaomi"
+  },
   "description": "Backend specialisations by ALX",
   "readme": "./README.md",
-  "type": "commonjs"
+  "type": "module"
 }
