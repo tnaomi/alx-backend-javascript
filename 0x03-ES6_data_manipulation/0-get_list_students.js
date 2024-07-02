@@ -6,6 +6,6 @@ function getListStudents() {
   ];
 
   return obj;
-  }
+}
 
 export default getListStudents;
