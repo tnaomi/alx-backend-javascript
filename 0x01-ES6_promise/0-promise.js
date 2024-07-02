@@ -6,6 +6,6 @@ function getResponseFromAPI() {
         reject();
       }
     });
-  }
+}
   
-  export default getResponseFromAPI;
+export default getResponseFromAPI;
